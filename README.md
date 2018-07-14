@@ -1,5 +1,5 @@
 # ArticlePoint
-A nodeJS demo project with CRUd operation and user registration and login.
+A nodeJS demo project with CRUD operation and user registration and login.
 
 Technologies
 
